@@ -14,9 +14,22 @@ You can custermize for your setting.
 
 ### 1. Set `.env`
 
+Update `.env.sample` to `.env`
+
+`.env.sample`
+```
+TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SERVER_ID=123456789
+WELCOME_BOT_IT=12345677
+```
+
 `TOKEN` is discord token
+
 `SERVER_ID` is your discord server id
+
 `WELCOME_BOT_ID` is the other bot id that pushes message when new user join.
+
+
 
 ### 2. Run
 ```bash
