@@ -1,5 +1,8 @@
 # Epics Discord BOT
 
+<img width="402" alt="checker-bot" src="https://user-images.githubusercontent.com/23725836/187983091-2b4b113e-5831-482f-b46e-19fcf0e94382.png">
+
+
 Automatically ban malicious users when they enter Discord.
 
 This is a sample. When a user has username `Announcement` ,
